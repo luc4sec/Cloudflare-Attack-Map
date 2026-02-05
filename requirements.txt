@@ -1,0 +1,6 @@
+python-dotenv
+requests
+urllib3
+redis
+websocket-client
+aiohttp
