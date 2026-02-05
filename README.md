@@ -2,6 +2,8 @@
 
 Mapa de ataques em tempo real utilizando logs da Cloudflare. Visualiza requisições bloqueadas (status 403) em um mapa interativo.
 
+![Attack Map](docs/map-print.png)
+
 ## Requisitos
 
 - Python 3.8+
