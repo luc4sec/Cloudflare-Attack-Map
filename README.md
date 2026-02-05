@@ -1,8 +1,6 @@
-# GuardNet - Cloudflare Attack Map
+# Cloudflare Attack Map
 
 Mapa de ataques em tempo real utilizando logs da Cloudflare. Visualiza requisições bloqueadas (status 403) em um mapa interativo.
-
-![Attack Map Preview](frontend/static/images/marker.svg)
 
 ## Requisitos
 
@@ -16,7 +14,7 @@ Mapa de ataques em tempo real utilizando logs da Cloudflare. Visualiza requisiç
 
 ```bash
 git clone <repo-url>
-cd guardnet-mapAttack
+cd Cloudflare-Attack-Map
 ```
 
 ### 2. Instale as dependências
@@ -99,7 +97,3 @@ O token da API precisa das seguintes permissões:
 
 - `Zone:Logs:Read` - Para acessar os Instant Logs
 - `Zone:Zone:Read` - Para listar as zonas
-
-## Licença
-
-MIT
