@@ -31,9 +31,3 @@ docker compose up -d
 
 Acesse: **http://localhost:8083**
 
-## Token Cloudflare
-
-Permissões necessárias:
-- `Zone:Logs:Read`
-- `Zone:Zone:Read`
-
